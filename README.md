@@ -1,6 +1,6 @@
 # Vue 3 Expense Tracker (Tutorial Project)
 
-An expense tracker app built with Vue 3 and the composition API.
+An expense tracker application built with Vue 3 and the composition API.
 
 - Add and remove expenses/income
 - Track balance
